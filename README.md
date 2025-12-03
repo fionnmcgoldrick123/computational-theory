@@ -1,5 +1,7 @@
 # Computational Theory
 
+*Link to [problems.ipynb](./problems.ipynb) file.*
+
 ## 1. Project Overview
 
 This repository contains my submission for the **Computational Theory** assessment for *Winter 2025/26.*
@@ -34,10 +36,16 @@ The project structure is quite simple and only contains the ``README.md`` and th
 ```
 computational-theory/
 │
+├── .gitignore
 ├── problems.ipynb              
-├── README.md                
+├── README.md  
+├── requirements.txt           
 ```
 
+- **README.md**: Provides a general overview of the [problems.ipynb](./problems.ipynb) notebook. 
+- **problems.ipynb**: Contains the five problems from the *computational theory* module and follows the module's requirements. 
+- .**gitignore**: Prevents certain files from being committed to the [computational-theory](https://github.com/fionnmcgoldrick123/computational-theory) GitHub repository.
+- **requirements.txt**: Stores dependencies for easy installation in set up.
 
 ### 3. How to Run the Notebooks
 
