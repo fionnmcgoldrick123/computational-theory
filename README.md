@@ -31,8 +31,8 @@ The primary goal of this project is to demonstrate a strong practical **understa
 
 The project goes beyond simply solving each question: it **documents the theory behind each concept**, applies testing, references appropriate sources, and structures the work so it can be rerun cleanly on any machine.
 
-### 2. Respository Structure
-The project structure is quite simple and only contains the ``README.md`` and the ``problems.ipynb``. My repository also contains a .``vscode`` file which just contains JSON settings configuration file but it is not particularly relevant to this assignment.
+### 2. Repository Structure
+The project structure is quite simple and only contains the ``README.md`` and the ``problems.ipynb``. My repository also contains a `.vscode` file which just contains JSON settings configuration file but it is not particularly relevant to this assignment.
 ```
 computational-theory/
 │
